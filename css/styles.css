@@ -79,6 +79,10 @@ header {
   font-weight: 500;
 }
 
+main {
+  padding: 0 2rem;
+}
+
 .posts {
   background-color: var(--white);
   width: 100%;
